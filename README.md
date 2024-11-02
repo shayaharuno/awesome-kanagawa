@@ -12,6 +12,7 @@ A collection of list for the Kanagawa color pallet and themes for various applic
 ## Browsers and Communication
 - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/kanagawa-for-firefox/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 - [Discord](https://github.com/ardishco-the-great/KanagawaGTK-for-discord)
+- [Zen Browser](https://github.com/zen-browser/theme-store/pull/400)
 
 ## Terminal
 You could find a [Xresources](https://github.com/rebelot/kanagawa.nvim/blob/master/extras/kanagawa.Xresources) file on the original repo in the 
