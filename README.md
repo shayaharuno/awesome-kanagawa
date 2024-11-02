@@ -4,7 +4,7 @@
   <img src="kanagawa@2x.png" width="500" >
 </p>
 
-A collection of list for the Kanagawa color pallete and themes for various applications. This pallet is based on Tommaso Laurenzi (rebelot)'s [kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) neovim colorscheme, inspired by the colors of the famous painting by Katsushika Hokusai.
+A collection of list for the Kanagawa color pallet and themes for various applications. This pallet is based on Tommaso Laurenzi (rebelot)'s [kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) neovim colorscheme, inspired by the colors of the famous painting by Katsushika Hokusai.
 
 > If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!
 
