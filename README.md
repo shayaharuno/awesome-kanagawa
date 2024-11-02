@@ -14,17 +14,12 @@ A collection of list for the Kanagawa color pallet and themes for various applic
 - [Discord](https://github.com/ardishco-the-great/KanagawaGTK-for-discord)
 - [Zen Browser](https://github.com/zen-browser/theme-store/pull/400)
 
-## Terminal
-You could find a [Xresources](https://github.com/rebelot/kanagawa.nvim/blob/master/extras/kanagawa.Xresources) file on the original repo in the 
-- [warp](https://github.com/nicholasdly/kanagawa.warp) 
-
 ## Text Editors
 - [VSCode](https://marketplace.visualstudio.com/items?itemName=metaphore.kanagawa-vscode-color-theme)
 - [Obsidian](https://github.com/sspaeti/obsidian_kanagawa#readme)
 - [JetBrains](https://github.com/frykher/jetbrains-kanagawa-theme)
 - [Neovim](https://github.com/rebelot/kanagawa.nvim) 
 - [Emacs](https://github.com/jasonm23/emacs-theme-kanagawa)
-- [Intellij](https://github.com/geekya215/intellij-kanagawa-theme)
 
 ## Other Applications
 - [Blender](https://github.com/shayaharuno/kanagawa.blender)
