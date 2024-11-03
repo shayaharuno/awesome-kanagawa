@@ -16,7 +16,7 @@ A collection of list for the Kanagawa color pallet and themes for various applic
 
 ## Text Editors
 - [VSCode](https://marketplace.visualstudio.com/items?itemName=metaphore.kanagawa-vscode-color-theme)
-- [Obsidian](https://github.com/sspaeti/obsidian_kanagawa#readme)
+- [Obsidian](https://github.com/shayaharuno/kanagawa.obsidian)
 - [JetBrains](https://github.com/frykher/jetbrains-kanagawa-theme)
 - [Neovim](https://github.com/rebelot/kanagawa.nvim) 
 - [Emacs](https://github.com/jasonm23/emacs-theme-kanagawa)
