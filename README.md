@@ -12,6 +12,7 @@ A collection of list for the Kanagawa color pallet and themes for various applic
 - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/kanagawa-for-firefox/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 - [Discord](https://github.com/shayaharuno/kanagawa.discord)
 - [Zen Browser](https://github.com/zen-browser/theme-store/pull/400)
+`/home/username/.zen/ver/chrome/zen-themes/`
 
 ## Text Editors
 - [VSCode](https://github.com/metapho-re/kanagawa-vscode-theme)
